@@ -29,20 +29,13 @@ This script automatically changes your Tor IP every 60 seconds and launches Brav
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<username>/Change-IP-in-Brave.git
+git clone https://github.com/nasa4rayan/Change-IP-in-Brave.git
 cd Change-IP-in-Brave
-Make the script executable:
 
-bash
-Copy
-Edit
 chmod +x braveip.sh
-Usage
+
 Run the script:
 
-bash
-Copy
-Edit
 bash braveip.sh
 Brave will open using Tor proxy.
 
